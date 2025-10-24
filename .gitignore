@@ -1,0 +1,8 @@
+Ignore the entire dataset folder
+
+dataset/
+
+Ignore Python's compiled files
+
+pycache/
+*.pyc
